@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я начинающий C# программист!</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=1610&height=50&lines=Пишу+небольшие+Desktop+приложения+под+различные+нужды+коллег+в+моей+организации,+также+учусь+разработке+web+приложений+на+ASP.NET+Core." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=1200&height=50&lines=Пишу+небольшие+Desktop+и+Web+приложения+под+различные+нужды+коллег+в+моей+организации." alt="Typing SVG" /></a>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 </div>
