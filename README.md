@@ -3,9 +3,13 @@
 <h3 align="center">Я начинающий C# программист!</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&height=50&lines=Пишу+небольшие+Desktop+приложения+под+различные+нужды+коллег+в+моей+организации." alt="Typing SVG" /></a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+</div>
+
+
 <!--
 **Icetiger1/Icetiger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
