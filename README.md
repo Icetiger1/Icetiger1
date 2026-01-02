@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&center=true&multiline=true&width=1200&height=60&lines=Занимаюсь+разработкой+различных+библиотек,+программ+и+SSIS+пакетов+для+нужд+моей+компании,;а+также+модулей+и+скриптов+на+Python." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&center=true&multiline=true&width=1200&height=60&lines=Занимаюсь+разработкой+различных+библиотек,+программ+и+ETL+процессов+для+нужд+моей+компании,;а+также+модулей+и+скриптов+на+Python." alt="Typing SVG" /></a>
 
 ### :hammer_and_wrench: Языки и инструменты :
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
