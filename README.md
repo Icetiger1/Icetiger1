@@ -18,12 +18,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
 </div>
 
-### Значки
+### Статистика
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Icetiger1&theme=radical)
 
-<b>Моя статистика на GitHub</b>
-
-<a href="http://www.github.com/Icetiger1"><img src="https://github-readme-stats.vercel.app/api?username=Icetiger1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Статистика Icetiger1 на GitHub" /></a>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Icetiger1&theme=radical) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Icetiger1&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Icetiger1&theme=radical) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Icetiger1&theme=radical)
 <!--
 **Icetiger1/Icetiger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
